@@ -1,1 +1,1 @@
-Combineの練習
+Combineの練習タイマーアプリ
